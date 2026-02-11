@@ -2,12 +2,19 @@
 # 🍎 Bad Apple!! ASCII Player
 
 Tutorial cara run Bad Apple (aku tohok)
+
 <img src="assets/tohok.png" width="600" alt="Tohok">
 
 ## 🛠️ Persiapan (Instalasi)
 
-Sebelum menjalankan, wajib install ini dulu loh ya!
+### Sebelum menjalankan, wajib install ini dulu loh ya!:
 
+1. Python 3.x bebas yang penting versi 3. Untuk cek apakah sudah terintall ketik:
+```bash
+python --version
+```
+
+2. Jika sudah ada Python, lalu ketik ini di CMD untuk menginstall library-nya:
 ```bash
 pip install opencv-python numpy pygame
 
