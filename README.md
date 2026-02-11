@@ -9,7 +9,7 @@ Tutorial cara run Bad Apple (aku tohok)
 
 ### Sebelum menjalankan, wajib install ini dulu loh ya!:
 
-1. **[Python 3.x](https://www.python.org/downloads/)** bebas yang penting versi 3. Untuk cek apakah sudah terintall ketik:
+1. **[Python 3.x](https://www.python.org/downloads/)** bebas yang penting versi 3. Untuk cek apakah sudah terintall, di CMD ketik:
 ```bash
 python --version
 ```
