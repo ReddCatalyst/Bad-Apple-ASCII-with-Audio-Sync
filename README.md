@@ -1,11 +1,12 @@
 
 # 🍎 Bad Apple!! ASCII Player
 
-Cara menjalankan program Bad Apple!! versi terminal (ASCII) dengan sinkronisasi suara.
+Tutorial cara run Bad Apple (aku tohok)
+<img src="assets/tohok.png" width="600" alt="Tohok">
 
 ## 🛠️ Persiapan (Instalasi)
 
-Sebelum menjalankan, kamu wajib install library yang dibutuhkan lewat CMD:
+Sebelum menjalankan, wajib install ini dulu loh ya!
 
 ```bash
 pip install opencv-python numpy pygame
@@ -23,7 +24,7 @@ Pastikan file video dan musik sudah ada di folder `assets/`:
 
 ### 2. Jalankan Program
 
-Kamu punya dua pilihan cara jalaninnya:
+Ada 2 cara jalaninnya (mending langsung ke opsi A aja biar ga pusing jir)
 
 * **Opsi A (Paling Gampang):**
 Cukup klik dua kali pada file `bad_apple.bat` di folder utama.
@@ -38,7 +39,7 @@ python src/bad_apple.py
 
 ## 📺 Tips Tampilan (Biar HD)
 
-Agar gambarnya terlihat jelas dan tidak berantakan:
+Biar hd aja
 
 1. Klik kanan **Title Bar CMD** -> **Properties** -> **Font**.
 2. Ubah ukuran font ke **5** atau **8**.
